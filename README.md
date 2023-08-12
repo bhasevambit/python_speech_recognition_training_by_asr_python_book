@@ -1,1 +1,3 @@
-# python_speech_recognition_training_by_asr_python_book
+# Python Speech Recognition Training by ASR Python Book
+
+This repository is training of python speech recognition by ASR Python Book.
