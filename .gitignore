@@ -1,3 +1,9 @@
+# User files
+
+# User modules
+sample_codes/
+sample_codes/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
