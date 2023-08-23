@@ -21,3 +21,14 @@ venv setup is below commands.
 pip requirements install command is below.
 
 `pip install -r ./requirements.txt`
+
+## Note
+
+- This repository is used below commands. Please install below commands.
+
+  - `sox`
+
+- This repository is used direnv.
+
+  - Please install `direnv` and execute `direnv allow` commands at Repository Top directory.
+    (If you use Windows, please execute `.\.venv\Scripts\activate` commnads)
