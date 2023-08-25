@@ -24,7 +24,7 @@ pip requirements install command is below.
 
 ## Note
 
-- This repository is used below commands. Please install below commands.
+- This repository is used below commands. Please install below packages.
 
   - `sox`
 
