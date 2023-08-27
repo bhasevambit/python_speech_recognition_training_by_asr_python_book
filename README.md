@@ -4,9 +4,9 @@ This repository is training of python speech recognition by ASR Python Book.
 
 ## Reference codes
 
-Refernce sample codes(below repositories) is cloned in `./sample_codes`.
+Clone Refernce sample codes repository by below commnads to `./sample_codes`.
 
-- <https://github.com/bhasevambit/python_asr>
+`git clone git@github.com:bhasevambit/python_asr.git`
 
 ## Python Version
 
